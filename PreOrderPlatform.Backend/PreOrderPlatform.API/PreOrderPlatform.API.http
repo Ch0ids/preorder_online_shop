@@ -1,0 +1,6 @@
+@PreOrderPlatform.API_HostAddress = http://localhost:5251
+
+GET {{PreOrderPlatform.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

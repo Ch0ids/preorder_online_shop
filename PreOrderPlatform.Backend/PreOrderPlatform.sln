@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTFTest", "WTFTest\WTFTest.csproj", "{884FC25F-318D-45D1-A334-AC741712ACFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WTFTest", "WTFTest\WTFTest.csproj", "{884FC25F-318D-45D1-A334-AC741712ACFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreOrderPlatform.Core", "PreOrderPlatform.Core\PreOrderPlatform.Core.csproj", "{F2DFBEFB-CA12-4B93-AA8E-1DA15C0BE6C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreOrderPlatform.Core", "PreOrderPlatform.Core\PreOrderPlatform.Core.csproj", "{F2DFBEFB-CA12-4B93-AA8E-1DA15C0BE6C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreOrderPlatform.Infrastruture", "PreOrderPlatform.Infrastruture\PreOrderPlatform.Infrastruture.csproj", "{E718685A-50FD-4DAF-A8BA-B4EFA721CD8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreOrderPlatform.Infrastruture", "PreOrderPlatform.Infrastruture\PreOrderPlatform.Infrastruture.csproj", "{E718685A-50FD-4DAF-A8BA-B4EFA721CD8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreOrderPlatform.UseCases", "PreOrderPlatform.UseCases\PreOrderPlatform.UseCases.csproj", "{91A76CE1-FD3A-4438-898F-0B9EB32DE9CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreOrderPlatform.UseCases", "PreOrderPlatform.UseCases\PreOrderPlatform.UseCases.csproj", "{91A76CE1-FD3A-4438-898F-0B9EB32DE9CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreOrderPlatform.API", "PreOrderPlatform.API\PreOrderPlatform.API.csproj", "{FDBD8792-C50E-4CE7-B112-D5AC7A21FECE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreOrderPlatform.API", "PreOrderPlatform.API\PreOrderPlatform.API.csproj", "{96905F75-B46B-4577-9459-7E7D4E7134F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{91A76CE1-FD3A-4438-898F-0B9EB32DE9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91A76CE1-FD3A-4438-898F-0B9EB32DE9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91A76CE1-FD3A-4438-898F-0B9EB32DE9CA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FDBD8792-C50E-4CE7-B112-D5AC7A21FECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FDBD8792-C50E-4CE7-B112-D5AC7A21FECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FDBD8792-C50E-4CE7-B112-D5AC7A21FECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FDBD8792-C50E-4CE7-B112-D5AC7A21FECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96905F75-B46B-4577-9459-7E7D4E7134F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96905F75-B46B-4577-9459-7E7D4E7134F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96905F75-B46B-4577-9459-7E7D4E7134F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96905F75-B46B-4577-9459-7E7D4E7134F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
